@@ -75,14 +75,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-165918288-1
 
 
 # Site Author
 author:
   name             : "Mykel Loren Brinkerhoff"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Student in the Department of Linguistics at UC Santa Cruz"
   location         : "Santa Cruz, CA"
   employer         :
   pubmed           : 
