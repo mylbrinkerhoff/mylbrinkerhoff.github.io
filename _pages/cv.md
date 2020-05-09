@@ -18,7 +18,8 @@ A pdf copy of this CV is available here.
   Thesis: On Subcategorization and PRIORITY: Evidence from Welsh Allomorphy  
   Thesis Advisor: Jennifer L. Smith
 * B.A. in Linguistics (Minor in German language and Literature), University of Utah, 2015
-* A.A. in General Studies, Weber State University, 2013
+
+* A.A. in General Studies, Weber State University, 2013  
 
 ## Work experience
 
