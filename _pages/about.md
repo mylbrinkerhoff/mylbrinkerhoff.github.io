@@ -12,7 +12,7 @@ I am a first year Ph.D. student in the [Department of Linguistics](https://lingu
 
 ## Research Interests
 
-My research primarily focuses on phonology, the study of sound-structure systems in language. However, my current research is intereseted in questions concerning the phonology's interfaces to other areas in linguistics, especially the morphological and syntactic components.
+My research primarily focuses on phonology, the study of sound-structure systems in language. However, my current research is interested in questions concerning the phonology's interfaces to other areas in linguistics, especially the morphological and syntactic components.
 
 Other areas that I focus on includes questions concerning the Celtic and Germanic languages from the Indo-European family and the Zapotecan languages spoken in Oaxaca, Mexico.
 
