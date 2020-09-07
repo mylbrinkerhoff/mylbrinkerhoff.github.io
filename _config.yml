@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mykel Loren Brinkerhoff"
 title_separator          : "-"
-name                     : &name "Mykel Lot=ren Brinkerhoff"
+name                     : &name "Mykel Loren Brinkerhoff"
 description              : &description "personal description"
 url                      : https://mylbrinkerhoff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mykel Loren Brinkerhoff"
-  avatar           : "profile.png"
+  avatar           : "Me.jpeg"
   bio              : "Ph.D. Student in the Department of Linguistics at UC Santa Cruz. "
   location         : "Santa Cruz, CA"
   employer         :
