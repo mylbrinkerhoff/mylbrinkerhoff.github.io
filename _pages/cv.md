@@ -43,4 +43,15 @@ A pdf copy of this CV is available here.
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Service and leadership
+## Service to the field
+
+### Conference and workshops organized
+
+* *2020 Annual Meeting of Phonology* at UC Santa Cruz (co-organized with Ryan Bennett, Richard Bibbs, Junko Ito, Max Kaplan, Stephanie Rich, Amanda Rysling, Nick Van Handel, & Maya Wax Cavallaro)
+* *UNC Linguistics Spring Colloquium 2019* at the University of North Carolina at Chapel Hill (co-organized with Tistan Bavel, Erin Chesson, Simon Wolf, & Luna Xie)
+* *UNC Linguistics Spring Colloquium 2018* at the University of North Carolina at Chapel Hill (co-organized with Brent Eisenbarth, Raua-Banu Kadirova, & Mika Wang)
+
+
+## Professional Affiliations
+
+* Linguistic Society of America (2017–Present)

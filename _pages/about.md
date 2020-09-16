@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student in the [Department of Linguistics](https://linguistics.ucsc.edu/) at the University of California, Santa Cruz. Prior to coming to Santa Cruz in 2019, I was at the University of North Carolina where I received a Master's degree in Linguistics. My Masters thesis was *["On Subcategorization and PRIORITY: Evidence from Welsh Allomorphy"](https://doi.org/10.17615/td9g-v269)* which was advised by [Jennifer L. Smith](https://users.castle.unc.edu/~jlsmith/).
+I am a second year Ph.D. student in the [Department of Linguistics](https://linguistics.ucsc.edu/) at the University of California, Santa Cruz. Prior to coming to Santa Cruz in 2019, I was at the University of North Carolina where I received a Master's degree in Linguistics. My Masters thesis was *["On Subcategorization and PRIORITY: Evidence from Welsh Allomorphy"](https://doi.org/10.17615/td9g-v269)* which was advised by [Jennifer L. Smith](https://users.castle.unc.edu/~jlsmith/).
 
 ## Research Interests
 
@@ -18,7 +18,7 @@ Other areas that I focus on includes questions concerning the Celtic and Germani
 
 Currently, I am working with [Eirik Tengesdal](https://www.hf.uio.no/iln/english/people/aca/scandinavian-languages/temporary/eirikten/) from *Universitetet i Oslo* on providing an analysis of pronominal object shift and its interaction with verbal particles and adverbs in Mainland Scandinavian. Additionally, I am conducting research for my first qualifying paper, with Ivy Sichel as advisor, on the role that prosody plays in the shifting of negative indefinites in North Germanic languages.
 
-I am also assisting with fieldwork on the Oto-Manguean language [Santiago Laxopa Zapotec](http://zapotec.ucsc.edu/).
+I am also assisting with fieldwork on the Oto-Manguean language [Santiago Laxopa Zapotec](http://zapotec.ucsc.edu/). I am primarily working on discovering the number of tones in this variety and their interactions with stress, phonology, phonation, and prosody.
 
 ## Other Interests
 
