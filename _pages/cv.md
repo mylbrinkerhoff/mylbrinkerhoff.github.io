@@ -9,21 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf copy of this CV is available here.
+A pdf copy of this CV is available [here](https://www.mlbrinkerhoff.me/files/paper1.pdf).
 
 ## Education
 
 * Ph.D in Linguistics, University of California, Santa Cruz, 2024 (expected)
+
 * M.A. in Linguistics, University of North Caroolina at Chapel Hill , 2019  
   Thesis: On Subcategorization and PRIORITY: Evidence from Welsh Allomorphy  
   Thesis Advisor: Jennifer L. Smith
+
 * B.A. in Linguistics (Minor in German language and Literature), University of Utah, 2015
 
 * A.A. in General Studies, Weber State University, 2013  
 
-## Work experience
-  
-## Skills
 
 ## Publications
 
@@ -55,3 +54,7 @@ A pdf copy of this CV is available here.
 ## Professional Affiliations
 
 * Linguistic Society of America (2017–Present)
+
+## Skills
+
+### Languages
