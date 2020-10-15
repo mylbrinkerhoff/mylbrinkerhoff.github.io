@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf copy of this CV is available [here](https://www.mlbrinkerhoff.me/files/paper1.pdf).
+A pdf copy of this CV is available [here](https://www.mlbrinkerhoff.me/files/Brinkerhoff_CV.pdf).
 
 ## Education
 
