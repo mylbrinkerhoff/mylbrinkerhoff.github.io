@@ -23,7 +23,6 @@ A pdf copy of this CV is available [here](https://www.mlbrinkerhoff.me/files/Bri
 
 * A.A. in General Studies, Weber State University, 2013  
 
-
 ## Publications
 
   <ul>{% for post in site.publications %}
