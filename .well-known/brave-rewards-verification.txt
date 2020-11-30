@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: mlbrinkerhoff.me
-Token: fd5a4622546af88e3bfa65dc2c423839280e986757aaa6c6b16afb17e48ed545
