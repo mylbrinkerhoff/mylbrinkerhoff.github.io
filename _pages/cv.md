@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf copy of this CV is available [here](https://www.mlbrinkerhoff.me/files/Brinkerhoff_CV.pdf).
+A pdf copy of my CV is available [here](https://www.mlbrinkerhoff.me/files/Brinkerhoff_CV.pdf).
 
-## Education
+<!-- ## Education
 
 * Ph.D in Linguistics, University of California, Santa Cruz, 2024 (expected)
 
@@ -56,4 +56,4 @@ A pdf copy of this CV is available [here](https://www.mlbrinkerhoff.me/files/Bri
 
 ## Skills
 
-### Languages
+### Languages -->
