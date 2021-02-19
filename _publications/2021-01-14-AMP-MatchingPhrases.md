@@ -13,4 +13,6 @@ One significant contribution of generative linguistics has been to our understan
 
 \| [Bibtex]() \| [Pre-publication]() \| [Post-publication]()
 
-Recommended citation: Brinkerhoff, Mykel Loren & Eirik Tengesdal. 2021. Matching Phrases in Norwegian Object Shift. In Ryan Bennett, Richard Bibbs, Mykel Loren Brinkerhoff, Max J. Kaplan, Stephanie Rich, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Supplemental Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America. DOI.
+Recommended citation:
+
+Brinkerhoff, Mykel Loren & Eirik Tengesdal. 2021. Matching Phrases in Norwegian Object Shift. In Ryan Bennett, Richard Bibbs, Mykel Loren Brinkerhoff, Max J. Kaplan, Stephanie Rich, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Supplemental Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America. DOI.
