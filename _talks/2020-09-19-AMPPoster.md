@@ -1,7 +1,7 @@
 ---
 title: "MATCHING Phrases in Norwegian Object Shift"
 collection: talks
-type: "Talk"
+type: "Poster"
 permalink: /talks/2020-09-19-AMPPoster
 venue: "2020 Annual Meeting on Phonology"
 date: 2020-09-19
@@ -14,4 +14,4 @@ One significant contribution of generative linguistics has been to our understan
 
 Recommended citation: 
 
-Brinkerhoff, Mykel Loren & Eirik Tengesdal. 2020. MATCHING phrases in Norwegian object shift. Poster presented at the 2020 Annual Meeting on Phonology, Santa Cruz, CA.
+Brinkerhoff, Mykel Loren & Eirik Tengesdal. 2020. MATCHING phrases in Norwegian object shift. Poster presented at the 2020 Annual Meeting on Phonology, Santa Cruz, CA. Sept 19.
