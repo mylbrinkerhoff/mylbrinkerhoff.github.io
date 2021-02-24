@@ -2,6 +2,7 @@
 title: "Matching Phrases in Norwegian Object Shift"
 collection: publications
 permalink: /publication/2021-1-14-MatchingPhrases
+type: "Conference Proceeding"
 excerpt: 'This paper is about providing an account of Norwegian object shift within Match Theory. We show that Match Theory is well suited to account for the shifting of pronominal objects if the MATCH constraints are sensitive to lexical elements only. This observation is in contrast with the findings from Elfner (2012) that MATCH should be sensitive to both lexical and functional elements.'
 date: 2021-01-14
 venue: 'Supplemental Proceedings of the 2020 Annual Meeting on Phonology.'
