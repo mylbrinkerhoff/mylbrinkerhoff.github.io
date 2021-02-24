@@ -2,6 +2,7 @@
 title: "On Subcategorization and PRIORITY: Evidence from Welsh Allomorphy"
 collection: publications
 permalink: /publication/2019-08-05-SubcategorizationPriority
+type: "Thesis"
 excerpt: 
 date: 2019-08-05
 venue: 'UNC MA Thesis'
