@@ -16,12 +16,12 @@ My research primarily focuses on phonology, the study of sound-structure systems
 
 Other areas that I focus on includes questions concerning the Celtic and Germanic languages from the Indo-European family and the Zapotecan languages spoken in Oaxaca, Mexico.
 
-Currently, I am working with [Eirik Tengesdal](https://www.hf.uio.no/iln/english/people/aca/scandinavian-languages/temporary/eirikten/) from *Universitetet i Oslo* on providing an analysis of pronominal object shift and its interaction with verbal particles and adverbs in Mainland Scandinavian. Additionally, I am conducting research for my first qualifying paper, with Ivy Sichel as advisor, on the role that prosody plays in the shifting of negative indefinites in North Germanic languages.
+I collaborate with [Eirik Tengesdal](https://www.hf.uio.no/iln/english/people/aca/scandinavian-languages/temporary/eirikten/) from *Universitetet i Oslo* on providing an analysis of pronominal object shift and its interaction with verbal particles and adverbs in Mainland Scandinavian. Additionally, I am conducting research for my first qualifying paper, with Ivy Sichel as advisor, on the role that prosody plays in the shifting of negative indefinites in North Germanic languages.
 
-I am also assisting with fieldwork on the Oto-Manguean language [Santiago Laxopa Zapotec](http://zapotec.ucsc.edu/). I am primarily working on discovering the number of tones in this variety and their interactions with stress, phonology, phonation, and prosody.
+I am a member of the [Zapotec Language Project](http://zapotec.ucsc.edu/) at the University of California, Santa Cruz. In conjunction with Maya Wax Cavallaro and Jack Duff, we am working on understanding the tonal system in Santiago Laxopa Zapotec and how it interacts with the syntax-prosody interface, word and sentence stress, and phonation. 
 
 ## Other Interests
 
-Besides linguistics, I enjoy reading and learning about all manner of topics which has led me to start implementing the method of [commonplacing](https://en.wikipedia.org/wiki/Commonplace_book) for collecting all my various intellectual persuits into notebooks for easy accessing. I have a passion for genealogy and spending time with my family both at home playing games or being outside.
+I am an amatuer bookbinder and am always looking for ways to continue practicing this craft. 
 
-I am also an amatuer bookbinder and am always looking for ways to continue practicing this craft.
+I have also recently taken up crocheting again after a decade long hiatus. 
