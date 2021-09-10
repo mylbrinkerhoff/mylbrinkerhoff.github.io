@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in the [Department of Linguistics](https://linguistics.ucsc.edu/) at the University of California, Santa Cruz. Prior to coming to Santa Cruz in 2019, I was at the University of North Carolina where I received a Master's degree in Linguistics. My Masters thesis was *["On Subcategorization and PRIORITY: Evidence from Welsh Allomorphy"](https://doi.org/10.17615/td9g-v269)* which was advised by [Jennifer L. Smith](https://users.castle.unc.edu/~jlsmith/).
+I am a third year Ph.D. student in the [Department of Linguistics](https://linguistics.ucsc.edu/) at the University of California, Santa Cruz. Prior to coming to Santa Cruz in 2019, I was at the University of North Carolina at Chapel Hill where I received a Master's degree in Linguistics. My Masters thesis was *["On Subcategorization and PRIORITY: Evidence from Welsh Allomorphy"](https://doi.org/10.17615/td9g-v269)* which was advised by [Jennifer L. Smith](https://users.castle.unc.edu/~jlsmith/).
 
 ## Research Interests
 
