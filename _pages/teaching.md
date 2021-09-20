@@ -34,6 +34,7 @@ author_profile: true
 - Introduction to Language 
   - Fall 2018 
   - Spring 2019
+  
 ### Graduate Teaching Assistant, Department of Linguistics
 - Introduction to Language 
   - Fall 2017
