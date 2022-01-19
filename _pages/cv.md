@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+{% pdf "https://www.mlbrinkerhoff.me/files/Brinkerhoff_CV.pdf" %}
+
 A pdf copy of my CV is available [here](https://www.mlbrinkerhoff.me/files/Brinkerhoff_CV.pdf).
+
+
 
 <!-- ## Education
 

@@ -1,5 +1,5 @@
 current directory: /Users/mykelbrinkerhoff/repo/mylbrinkerhoff.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20220119-14796-sp3fqu.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20220119-15307-s0nz69.rb extconf.rb
 creating Makefile
 
 current directory: /Users/mykelbrinkerhoff/repo/mylbrinkerhoff.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
