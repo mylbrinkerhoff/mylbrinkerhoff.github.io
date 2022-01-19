@@ -30,11 +30,5 @@ author_profile: true
 <<<<<<< HEAD
 - Introduction to Language (Fall 2018, Spring 2019)
 
-=======
-- Introduction to Language 
-  - Fall 2018 
-  - Spring 2019
-  
->>>>>>> 6423d0d319ccd779aedea0efe96ef18d4f5abef6
 ### Graduate Teaching Assistant, Department of Linguistics
 - Introduction to Language (Fall 2017, Spring 2018)
