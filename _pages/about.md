@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in the [Department of Linguistics](https://linguistics.ucsc.edu/) at the University of California, Santa Cruz. My research primarily focuses on phonology, the study of sound-structure systems in language. Additionally, my current research is interested in questions concerning the phonology's interfaces to other components of grammar. See [Research](www.mlbrinkerhoff.me/research/) for a more detailed description of my research.
+I am a third year Ph.D. student in the [Department of Linguistics](https://linguistics.ucsc.edu/) at the University of California, Santa Cruz. My research primarily focuses on phonology, the study of sound-structure systems in language. Additionally, my current research is interested in questions concerning the phonology's interfaces to other components of grammar. See [Research](research.md) for a more detailed description of my research.
 
 Prior to coming to Santa Cruz in 2019, I was at the University of North Carolina at Chapel Hill where I received a Master's degree in Linguistics. My Masters thesis was *["On Subcategorization and PRIORITY: Evidence from Welsh Allomorphy"](https://doi.org/10.17615/td9g-v269)* which was advised by [Jennifer L. Smith](https://users.castle.unc.edu/~jlsmith/) and explored the allomorphy of the Welsh definite article.
