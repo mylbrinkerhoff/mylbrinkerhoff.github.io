@@ -17,6 +17,8 @@ author_profile: true
 
 ## Conference Talks
 
+**Brinkerhoff, Mykel Loren**, John Duff, Maya Wax Cavallaro. 2022. Tonal patterns and their restrictions in Santiago Laxopa Zapotec. _2022 Annual Meeting of the Society for the Study of the Indigenous Languages of the Americas (SSILA)_; Online. January 22. \| [Slides](/files/brinekrhoffTonalPatternsSantiagoLaxopaZapotec.pdf) \|
+
 **Brinkerhoff, Mykel Loren**, John Duff, Maya Wax Cavallaro. 2021. Downstep in Santiago Laxopa Zapotec and the prosodic typology of VSO languages. _Manchester Phonology Meeting (mfm)_; Manchester, England, UK. May 26. \| [Slides](/files/brinkerhoffDownstepSantiagoLaxopaMFM2021.pdf) \|
 
 **Brinkerhoff, Mykel Loren**. 2016. Reanalyzing "backwards" gemination in Italian: A theoretical comparison. _University of Utah Student Conference in Linguistics_; Salt Lake City, UT, USA. Apr 8.
