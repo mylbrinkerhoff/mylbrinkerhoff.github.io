@@ -22,8 +22,8 @@ One of th major areas of my research is investigation the interaction of phonolo
 ## Syntactic and Prosodic movement of pronominals
 
 One area of particular interest is providing syntactic and phonological accounts for the displacement of pronominals. Two of the interesting cases involve pronominal Object Shift and Negatitive Indefintite Shifting in Scandinavian languages. I collaborated with [Eirik Tengesdal](https://www.hf.uio.no/iln/english/people/aca/scandinavian-languages/temporary/eirikten/) from *Universitetet i Oslo* on providing an analysis of pronominal object shift and its interaction with verbal particles and adverbs in Mainland Scandinavian. 
-
 - **Brinkerhoff, Mykel Loren** & Eirik Tengesdal. 2021. Matching Phrases in Norwegian Object Shift. In Ryan Bennett, Richard Bibbs, Mykel Loren Brinkerhoff, Max J. Kaplan, Stephanie Rich, Amanda Rysling, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Supplemental Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America. [https://doi.org/10.3765/amp.v9i0.4921](https://doi.org/10.3765/amp.v9i0.4921). \| [Bibtex]() \| [Pre-publication](../files/BrinkerhoffTengesdalAMP2020_preprint.pdf) \| [Post-publication]() \|
+
 ## Santiago Laxopa Zapotec
 
 I am a member of the [Zapotec Language Project](http://zapotec.ucsc.edu/) at the University of California, Santa Cruz. In conjunction with [Maya Wax Cavallaro](https://waxcavallaro.sites.ucsc.edu/) and [John (Jack) Duff](https://people.ucsc.edu/~jduff/), we are working on understanding the tonal system in Santiago Laxopa Zapotec and how it interacts with the syntax-prosody interface, word and sentence stress, and phonation. 
