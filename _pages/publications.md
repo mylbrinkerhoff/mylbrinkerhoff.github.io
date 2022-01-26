@@ -21,7 +21,7 @@ author_profile: true
 
 ## Conference Proceedings
 ***
-**Brinkerhoff, Mykel Loren** & Eirik Tengesdal. 2021. Matching Phrases in Norwegian Object Shift. In Ryan Bennett, Richard Bibbs, Mykel Loren Brinkerhoff, Max J. Kaplan, Stephanie Rich, Amanda Rysling, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Supplemental Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America. [https://doi.org/10.3765/amp.v9i0.4921](https://doi.org/10.3765/amp.v9i0.4921). \| [Bibtex]() \| [Pre-publication](../files/BrinkerhoffTengesdalAMP2020_preprint.pdf) \| [Post-publication]() \|
+**Brinkerhoff, Mykel Loren** & Eirik Tengesdal. 2021. Matching Phrases in Norwegian Object Shift. In Ryan Bennett, Richard Bibbs, Mykel Loren Brinkerhoff, Max J. Kaplan, Stephanie Rich, Amanda Rysling, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Supplemental Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America. [https://doi.org/10.3765/amp.v9i0.4921](https://doi.org/10.3765/amp.v9i0.4921). \| [Bibtex](/bibliographies/brinkerhoffMATCHINGPhrasesNorwegian2021.bib) \| [Pre-publication](../files/BrinkerhoffTengesdalAMP2020_preprint.pdf) \| [Post-publication](/files/brinkerhoffMATCHINGPhrasesNorwegian2021.pdf) \|
 
 Bennett, Ryan, Richard Bibbs, **Mykel Loren Brinkerhoff**, Max J. Kaplan, Stephanie Rich, Amanda Rysling, Nicholas Van Handel & Maya Wax Cavallaro. 2021. Editors’ Note. In Ryan Bennett, Richard Bibbs, Mykel Loren Brinkerhoff, Max J. Kaplan, Stephanie Rich, Amanda Rysling, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Proceedings of the Annual Meetings on Phonology*. [https://doi.org/10.3765/amp.v9i0.5045](https://doi.org/10.3765/amp.v9i0.5045). \| [Bibtex]() \| [Publication]() \|
 
