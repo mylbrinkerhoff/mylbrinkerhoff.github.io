@@ -14,4 +14,4 @@ Prior to coming to Santa Cruz in 2019, I was at the University of North Carolina
 
  See [Research](/research/) for a more detailed description of my research.
 
- I am also a co-organizer for [WLMA](https://wlma.ucsc.edu/) (with [Maya Wax Cavallaro](https://waxcavallaro.sites.ucsc.edu/)), which is a reading group dedicated to linguistic fieldwork in Mesoamerica.  
+ I am also a co-organizer for [WLMA](https://wlma.ucsc.edu/) (with [Maya Wax Cavallaro](https://waxcavallaro.sites.ucsc.edu/)), which is a reading group dedicated to to discussing topics of shared interest relating to indigenous and understudied languages, with a special emphasis on the languages of Mesoamerica.  
