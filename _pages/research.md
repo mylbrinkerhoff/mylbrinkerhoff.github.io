@@ -19,7 +19,7 @@ My research primarily focuses on phonology, the study of sound-structure systems
 
 ## Phonological interfaces
 
-One of th major areas of my research is investigation the interaction of phonology with the other components of grammar. This includes how phonology influences (and is influenced by) phonetics, morphology, and syntax.
+One of the major areas of my research is investigation the interaction of phonology with the other components of grammar. This includes how phonology influences (and is influenced by) phonetics, morphology, and syntax.
 
 ## Syntactic and Prosodic movement of pronominals
 
