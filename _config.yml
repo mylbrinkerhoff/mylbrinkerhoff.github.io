@@ -72,9 +72,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag"
+  provider               : "google-gtag"  # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    measurement_id          : G-MW6LP1WSCZ
+    tracking_id          : G-MW6LP1WSCZ
     anonymize_ip         : # true, false (default)
 
 # Site Author
