@@ -17,7 +17,7 @@ A pdf copy of my CV is available [here](https://www.mlbrinkerhoff.me/files/Brink
 
 * Ph.D in Linguistics, University of California, Santa Cruz, 2024 (expected)
 
-* M.A. in Linguistics, University of North Caroolina at Chapel Hill , 2019  
+* M.A. in Linguistics, University of North Carolina at Chapel Hill , 2019  
   Thesis: On Subcategorization and PRIORITY: Evidence from Welsh Allomorphy  
   Thesis Advisor: Jennifer L. Smith
 
