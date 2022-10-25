@@ -11,7 +11,6 @@ redirect_from:
 
 A pdf copy of my CV is available [here](https://www.mlbrinkerhoff.me/files/Brinkerhoff_CV.pdf).
 
-<object data="{{ site.url }}{{ site.baseurl }}/files/Brinkerhoff_CV.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 <!-- {% pdf "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" %} -->
 
