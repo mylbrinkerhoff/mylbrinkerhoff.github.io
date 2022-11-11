@@ -14,7 +14,9 @@ author_profile: true
 ### Graduate Teaching Assistant, Department of Linguistics,
 - Invented Languages, from Elvish to Esperanto (Summer 2021)
 - Language and Indigeneity in Mesoamerica (Winter 2021)
-- Phonology I (Spring 2021)
+- Phonetics I (Fall 2022)
+- Phonetics II (Spring 2023)
+- Phonology I (Spring 2021, Winter 2023)
 - Phonology II (Fall 2020, Fall 2021)
 - Syntax I (Winter 2022)
 
