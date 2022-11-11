@@ -9,54 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf copy of my CV is available [here](https://www.mlbrinkerhoff.me/files/Brinkerhoff_CV.pdf).
+Education
+======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
+Work experience
+======
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-<!-- {% pdf "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" %} -->
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-<!-- ## Education
-
-* Ph.D in Linguistics, University of California, Santa Cruz, 2024 (expected)
-
-* M.A. in Linguistics, University of North Carolina at Chapel Hill , 2019  
-  Thesis: On Subcategorization and PRIORITY: Evidence from Welsh Allomorphy  
-  Thesis Advisor: Jennifer L. Smith
-
-* B.A. in Linguistics (Minor in German language and Literature), University of Utah, 2015
-
-* A.A. in General Studies, Weber State University, 2013  
-
-## Publications
-
+Publications
+======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Talks
-
+Talks
+======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-## Teaching
-
+Teaching
+======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Service to the field
-
-### Conference and workshops organized
-
-* *2020 Annual Meeting of Phonology* at UC Santa Cruz (co-organized with Ryan Bennett, Jérémie Beauchamp, Richard Bibbs, Junko Ito, Max Kaplan, Stephanie Rich, Amanda Rysling, Nick Van Handel, & Maya Wax Cavallaro)
-* *UNC Linguistics Spring Colloquium 2019* at the University of North Carolina at Chapel Hill (co-organized with Tistan Bavel, Erin Chesson, Simon Wolf, & Luna Xie)
-* *UNC Linguistics Spring Colloquium 2018* at the University of North Carolina at Chapel Hill (co-organized with Brent Eisenbarth, Raua-Banu Kadirova, & Mika Wang)
-
-
-## Professional Affiliations
-
-* Linguistic Society of America (2017–Present)
-
-## Skills
-
-### Languages -->
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
