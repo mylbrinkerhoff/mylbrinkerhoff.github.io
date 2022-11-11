@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %} -->
 ## University of California, Santa Cruz (2020-Present)
 ### Graduate Teaching Assistant, Department of Linguistics,
-- Invented Languages, from Elvish to Esperanto (Summer 2021)
+- Invented Languages, from Elvish to Esperanto (Summer 2021, Spring 2022)
 - Language and Indigeneity in Mesoamerica (Winter 2021)
 - Phonetics I (Fall 2022)
 - Phonetics II (Spring 2023)
