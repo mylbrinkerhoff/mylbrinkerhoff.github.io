@@ -12,6 +12,4 @@ I am a fourth year Ph.D. student in the [Department of Linguistics](https://ling
 
 Prior to coming to Santa Cruz in 2019, I was at the University of North Carolina at Chapel Hill where I received a Master's degree in Linguistics. My Masters thesis was *["On Subcategorization and PRIORITY: Evidence from Welsh Allomorphy"](https://doi.org/10.17615/td9g-v269)* which was advised by [Jennifer L. Smith](https://users.castle.unc.edu/~jlsmith/) and explored the allomorphy of the Welsh definite article.
 
- See [Research](/research/) for a more detailed description of my research.
-
- I am also the organizer for [WLMA](https://wlma.ucsc.edu/) which is a reading group dedicated to to discussing topics of shared interest relating to indigenous and understudied languages, with a special emphasis on the languages of Mesoamerica.  
+I am also the organizer for [WLMA](https://wlma.ucsc.edu/) which is a reading group at the University of California, Santa Cruz dedicated to to discussing topics of shared interest relating to indigenous and understudied languages, with a special emphasis on the languages of Mesoamerica.  
