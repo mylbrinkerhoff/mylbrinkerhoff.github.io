@@ -23,7 +23,9 @@ One of the major areas of my research is investigation the interaction of phonol
 
 ### Phonetics-Phonology Interface
 
-The phonetics-phonology interface is concerned with questions about how the abstract mental representations of sound systems are actually produced and what drives the variation that we observe in the production of these mental representations. Currently, [Grant McGuire](https://people.ucsc.edu/~gmcguir1/) and myself are exploring the production of laryngealized vowels in Santiago Laxopa Zapotec and the differences that speakers exhibit in the production of this phonemic category. 
+The phonetics-phonology interface is concerned with questions about how the abstract mental representations of sound systems are actually produced and what drives the variation that we observe in the production of these mental representations. Currently, [Grant McGuire](https://people.ucsc.edu/~gmcguir1/) and myself are exploring the production of laryngealized vowels in Santiago Laxopa Zapotec and the differences that speakers exhibit in the production of this phonemic category.
+
+Additionally, I am researching the interaction of tone and phonation in Zapotec and determining to what extent tone and phonation is actually phased with respect to one another according to the [Laryngeal Complexity Hypothesis](https://doi.org/10.1017/S0952675797003412). 
 
 ## Syntactic and Prosodic movement of pronominals
 
