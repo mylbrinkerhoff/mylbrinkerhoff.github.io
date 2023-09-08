@@ -14,7 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
+## Books
+Proyecto de lengua zapoteca. 2022. Elhabdzu bi’a yixe’ [Contando animales]. Santa Cruz,
+California: Proyecto de lengua zapoteca. (Contributor) \|[Link to pdf](https://zapotec.ucsc.edu/resources/books/elhabdzu-bi'a-yixe'.pdf) \|
 ## Dissertations & Theses
 ***
 **Brinkerhoff, Mykel Loren**. 2019. *On Subcategorization and PRIORITY: Evidence from Welsh Allomorphy*. Chapel Hill, NC: UNC MA Thesis. [https://doi.org/10.17615/td9g-v269](https://doi.org/10.17615/td9g-v269). \| [Bibtex](../../bibliographies/brinkerhoffSubcategorizationPRIORITYEvidence2019.bib) \| [Thesis](../../files/brinkerhoffSubcategorizationPRIORITYEvidence2019.pdf) \| 
