@@ -27,7 +27,7 @@ California: Proyecto de lengua zapoteca. (Contributor) \|[Link to pdf](https://z
 ## Conference Proceedings
 ***
 **Brinkerhoff, Mykel Loren** & Grant McGuire. 2024. *On Residual H1* as a measure of voice quality*. In Taehong Cho, Sehyang Kim, Jeff Holliday, Sang-Im Lee-Kim (eds.),
-*Proceedings of the 19th Conference on Laboratory Phonology*. 39-40. Seoul, Korean: Hanyang Institute for Phonetics and Cognitive Sciencesw of Language (HIPCS). (Abstract only) [https://labphon.org/labphon19/proceedings](https://labphon.org/labphon19/proceedings). \| [Bibtex](bibliographies/brinkerhoffResidualH1Measure2024.bib) \| [Abstract](files/brinkerhoffResidualH1Measure2024.pdf) \|
+*Proceedings of the 19th Conference on Laboratory Phonology*. 39-40. Seoul, Korean: Hanyang Institute for Phonetics and Cognitive Sciencesw of Language (HIPCS). (Abstract only) [https://labphon.org/labphon19/proceedings](https://labphon.org/labphon19/proceedings). \| [Bibtex](../bibliographies/brinkerhoffResidualH1Measure2024.bib) \| [Abstract](../files/brinkerhoffResidualH1Measure2024.pdf) \|
 
 **Brinkerhoff, Mykel Loren** & Eirik Tengesdal. 2021. Matching Phrases in Norwegian Object Shift. In Ryan Bennett, Richard Bibbs, Mykel Loren Brinkerhoff, Max J. Kaplan, Stephanie Rich, Amanda Rysling, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Supplemental Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America. [https://doi.org/10.3765/amp.v9i0.4921](https://doi.org/10.3765/amp.v9i0.4921). \| [Bibtex](/bibliographies/brinkerhoffMATCHINGPhrasesNorwegian2021.bib) \| [Pre-publication](../files/BrinkerhoffTengesdalAMP2020_preprint.pdf) \| [Post-publication](/files/brinkerhoffMATCHINGPhrasesNorwegian2021.pdf) \|
 
