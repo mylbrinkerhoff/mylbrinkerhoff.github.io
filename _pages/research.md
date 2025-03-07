@@ -35,10 +35,10 @@ One area of particular interest is providing syntactic and phonological accounts
 
 In addition to Object Shift, I have been researching the principles that govern Negatitive Indefinite Shifting in Scandinavian languages, which was the topic of my first qualifying paper.
 
-### Morphophonology 
+<!-- ### Morphophonology  -->
 
 
-## Phonetic research
+<!-- ## Phonetic research -->
 
 
 ## Santiago Laxopa Zapotec
