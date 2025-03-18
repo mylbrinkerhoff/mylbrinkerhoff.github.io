@@ -24,6 +24,11 @@ California: Proyecto de lengua zapoteca. (Contributor) \|[Link to pdf](https://z
 ***
 **Brinkerhoff, Mykel Loren**. 2019. *On Subcategorization and PRIORITY: Evidence from Welsh Allomorphy*. Chapel Hill, NC: UNC MA Thesis. [https://doi.org/10.17615/td9g-v269](https://doi.org/10.17615/td9g-v269). \| [Bibtex](../../bibliographies/brinkerhoffSubcategorizationPRIORITYEvidence2019.bib) \| [Thesis](../../files/brinkerhoffSubcategorizationPRIORITYEvidence2019.pdf) \| 
 
+## Journal Articles
+***
+**Brinkerhoff, Mykel Loren** and Grant McGuire. 2025. Using residual H1* for voice quality research. _JASA Express Letters_ 5(2). 025501. [https://doi.org/10.1121/10.0035881](https://doi.org/10.1121/10.0035881).
+\| [Bibtex](../bibliographies/brinkerhoffUsingResidualH12025.bib) \| [Author's Copy](../files/025501_1.pdf) \|
+
 ## Conference Proceedings
 ***
 **Brinkerhoff, Mykel Loren** & Grant McGuire. 2024. *On Residual H1* as a measure of voice quality*. In Taehong Cho, Sehyang Kim, Jeff Holliday, Sang-Im Lee-Kim (eds.),
