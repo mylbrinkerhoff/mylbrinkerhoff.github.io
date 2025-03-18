@@ -35,7 +35,11 @@ One area of particular interest is providing syntactic and phonological accounts
 
 In addition to Object Shift, I have been researching the principles that govern Negatitive Indefinite Shifting in Scandinavian languages, which was the topic of my first qualifying paper.
 
-<!-- ### Morphophonology  -->
+### Morphophonology 
+
+I am very interested in the interactions between morphology and phonology. In particular, I am interested in how morphological processes can affect the phonological representation of a word and vice versa. One area that I have been exploring is the interaction of cliticization and phonological processes in the Celtic languages, particularly Welsh. 
+
+My MA thesis was on the interaction of cliticization, consonant mutation, and prosody in Welsh. I argued that prepositions which have a stem final alternation in Welsh must enter the derivation at the same time that other clitics like determiners are added to the derivation. This is because the cliticization process and the phonological alterations must be evaluated at the same time by the phonology, in contrast to a cyclic embedding as proposed by some versions of Distributed Morphology. Evidence in support of this comes from the interactions between consonant mutation and these prepositions and determiners. 
 
 
 <!-- ## Phonetic research -->
