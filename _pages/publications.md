@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -44,4 +44,4 @@ Bennett, Ryan, Richard Bibbs, **Mykel Loren Brinkerhoff**, Max J. Kaplan, Stepha
 ***
 2021\. Ryan Bennett, Richard Bibbs, **Mykel Loren Brinkerhoff**, Max J. Kaplan, Stephanie Rich, Amanda Rysling, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Supplemental Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America.
 
-2021\. Ryan Bennett, Richard Bibbs, **Mykel Loren Brinkerhoff**, Max J. Kaplan, Stephanie Rich, Amanda Rysling, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America.
+2021\. Ryan Bennett, Richard Bibbs, **Mykel Loren Brinkerhoff**, Max J. Kaplan, Stephanie Rich, Amanda Rysling, Nicholas Van Handel & Maya Wax Cavallaro (eds.), *Proceedings of the 2020 Annual Meeting on Phonology.* Washington, DC: Linguistic Society of America. -->
